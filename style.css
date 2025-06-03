@@ -1,0 +1,23 @@
+body{
+	font-family:Arial, sans-serif
+	margin:20px;
+	color: #76106b
+	
+}
+
+h1{
+	text-align: center;
+	color: #76106b
+}
+
+textarea{
+	width: 100%;
+}
+
+button{
+	display: block;
+	margin-top: 10px;
+}
+html{
+	background-color: #ffd1d1
+}
